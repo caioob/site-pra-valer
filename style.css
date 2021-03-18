@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+
+#title{
+    text-align: center;
+    font-size: 50px;
+}
+
+#navbar{
+    text-align: center;
+}
+
+.textos{
+    font-size: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
