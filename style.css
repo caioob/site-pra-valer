@@ -12,7 +12,7 @@ body{
 }
 
 th, td {
-    border: solid black;
+    border: solid #0;
     padding: 10px;
     text-align: left;
     border-collapse: collapse;
